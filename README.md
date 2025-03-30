@@ -2,7 +2,7 @@
 
 Un proyecto educativo que implementa regresión lineal mediante descenso de gradiente, con visualización interactiva del proceso de entrenamiento.
 
-![Ejemplo de ejecución]([(https://drive.google.com/file/d/19hBLNnwgh-aKLRx2Z-SP30ZTFQiPbYSw/view?usp=sharing)])  
+[![Ejemplo de ejecución](https://img.shields.io/badge/VER_DEMO_HD-Google_Drive-success?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/19hBLNnwgh-aKLRx2Z-SP30ZTFQiPbYSw/view?usp=sharing)
 
 ## Características Clave 
 - **Visualización interactiva** de la evolución de la recta de regresión.
